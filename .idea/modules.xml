@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RunningAnnotation4.iml" filepath="$PROJECT_DIR$/RunningAnnotation4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioc-annotation/ioc-annotation.iml" filepath="$PROJECT_DIR$/ioc-annotation/ioc-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioc-api/ioc-api.iml" filepath="$PROJECT_DIR$/ioc-api/ioc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioc-compiler/ioc-compiler.iml" filepath="$PROJECT_DIR$/ioc-compiler/ioc-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioc-example/ioc-example.iml" filepath="$PROJECT_DIR$/ioc-example/ioc-example.iml" />
+    </modules>
+  </component>
+</project>
